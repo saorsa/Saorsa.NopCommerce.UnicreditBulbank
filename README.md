@@ -1,2 +1,2 @@
 # Saorsa.NopCommerce.UnicreditBulbank
-Provides unicredit bulbank calculator and payment integration.
+Provides Unicredit Bulbank calculator and leasing integration.
